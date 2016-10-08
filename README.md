@@ -1,7 +1,7 @@
 # Resizerator
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/1408720/19209299/6e6f394e-8cd5-11e6-89d2-b0df71f53b1f.png">
+  <img src="https://cloud.githubusercontent.com/assets/1408720/19209323/0d10cbda-8cd6-11e6-90e7-c07329bcdeca.png">
 </p>
 
 A "pfft.. I could toats do that for you in 5 minutes" kind of project (that naturally took hours of PyInstaller debugging).
