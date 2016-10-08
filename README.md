@@ -14,7 +14,7 @@ Destructively resizes a buncha images in the specified directory.
 Should I use it?
 ----------------
 
-Probably not, no.
+Probably not, no. It resizes everything in place and naively. Originals go away! 
 
 Then why is it here?
 --------------------
@@ -25,7 +25,7 @@ Ended up being a decent 'real world', start-to-finish example for packaging up a
 Hm.. I wanna try it
 -------------------
 
-Use the binary here, or clone the project and run `pyinstaller build.spec` from the root directory
+You can download a zip file with the binary [here](https://github.com/chriskiehl/Resizerator/files/517361/Simple.Image.Resizer.zip). Alternatively, clone the project and run `pyinstaller build.spec` from the root directory.
 
 
 
